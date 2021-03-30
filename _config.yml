@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Zero's Blog
 url: https://blog.zeros.top
 paginate: 1
 baseurl: ""
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Zero Song
+  url: https://blog.zeros.top
+  email: songzhipeng@me.com
 
 # Custom vars
 version: 3.0.0
